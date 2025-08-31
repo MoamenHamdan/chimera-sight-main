@@ -1,3 +1,10 @@
+video number 1 : 
+https://baudom-my.sharepoint.com/:v:/g/personal/mmh249_student_bau_edu_lb/ETfishdcIqZNsA0w6VDJXsYBScbQWE4fTVh98ptpQi9EVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JgzSgM
+
+video number 2 : 
+https://baudom-my.sharepoint.com/:v:/g/personal/mmh249_student_bau_edu_lb/EdjT600IOkBIu3-5ofM84W4Bj9Hxlmeq7Ibqh-goHnDDFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZuB5eL
+
+
 # Chimera Device Viz - Network Operations Dashboard
 
 Advanced device visualization and network operations management platform. Transform your device inventory into actionable insights with cutting-edge visualizations.
